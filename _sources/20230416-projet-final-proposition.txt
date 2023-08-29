@@ -1,0 +1,31 @@
+Site web ShowcaseMe (amorcé lors du cours sur les Wireframes).
+Description :
+Le site ShowcaseMe permet de créer et partager un portfolio sur internet.
+
+Un portfolio est une démonstration de compétences et de projet réalisés, de type "book" comme on le fait en graphisme et en architecture.
+Le but est entre autres, de l'étendre à d'autres domaines d'activités.
+
+Trois plans tarifaires sont proposés :
+
+- La version basique est gratuite jusqu'à 6 projets.
+- La premium est illimitée et les portfolios sont mis en avant sur la HP.
+- Même chose pour le profil business mais la mise en page des portfolios est plus poussée.
+
+Exemple de ce qu’est un portfolio web : https://raigyo-dev.be/  
+
+Fonctionnalités :
+
+- Landing page :
+La homepage présente les fonctionnalités et il y a un "Call to action" invitant à s'inscrire, car l'inscription est obligatoire. Exemple : https://www.pinterest.fr/
+- Login / Subscribe : Il est nécessaire d'être inscrit pour pouvoir accéder au site.
+- Homepage : présente divers porfolios, qu'on peut visualiser individuellement et divers call to actions. Comme afficher tous les portfolios d’un certain type…
+- Outil de recherche : par thème, société…
+- Visiter un portfolio basique, premium ou business : on peut visualiser les projets, contacter l'auteur, partager le portfolio / projet sur les réseaux ou commenter. On peut également répondre aux commentaires et partager son propre portfolio.
+- Editer portfolio : éditer son propre portfolio (biographie, photo...). Un portfolio est composé d'une série de projets.
+- Ajouter projet : on peut ajouter jusqu'à 6 projets dans la version gratuite mais plus dans les autres versions. Les projets ont un descriptif, une galerie photo…
+- Editer projet : On peut les modifier ou supprimer.
+- Consulter le plan tarifaire.
+
+
+
+
