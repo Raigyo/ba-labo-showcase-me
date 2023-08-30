@@ -36,7 +36,7 @@ Cette charte comprend :
 - Intervenants et Parties prenantes
 - Instances de gouvernance du projet
 
-[Charter Project - PDF](01-charter-project_fr.pdf){.btn .btn-primary}
+[Charter Project - PDF](01-charter-project_fr.pdf)
 
 ## 02. Cahier des charges (Specifications)
 
@@ -97,7 +97,7 @@ Ce cahier des charges comprend :
 - Schéma Relationnel
 - Glossaire
 
-[Cahier des charges - PDF](02-specifications_fr.pdf){.btn .btn-primary}
+[Cahier des charges - PDF](02-specifications_fr.pdf)
 
 ## 03. BPMN ASIS
 
@@ -231,7 +231,7 @@ Les scenarri concernent :
 - 2) Cas alternatif : l’utilisateur veut ajouter plus de 6 projets
 - 3) Cas d’exception : L’utilisateur ne renouvelle pas son abonnement
 
-[Scénarii nominaux et alternatifs - PDF](10-uml-use-cases-scenarii_fr.pdf){.btn .btn-primary}
+[Scénarii nominaux et alternatifs - PDF](10-uml-use-cases-scenarii_fr.pdf)
 
 ## 11. Wireframes
 
