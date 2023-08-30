@@ -18,7 +18,7 @@ Les analystes d'affaires TIC utilisent des techniques de modélisation des donn�
 
 ## 01. Charte de projet (Charter Project)
 
-_Une charte de projet est un document formel, généralement court, qui décrit votre projet dans son intégralité, y compris les objectifs, la manière dont il sera réalisé et les parties prenantes._
+_Une charte de projet est un document formel, généralement court, qui décrit le projet dans son intégralité, y compris les objectifs, la manière dont il sera réalisé et les parties prenantes._
 
 Cette charte comprend :
 
