@@ -36,7 +36,7 @@ Cette charte comprend :
 - Intervenants et Parties prenantes
 - Instances de gouvernance du projet
 
-[Charter Project - PDF](01-charter-project_fr.pdf)
+_Téléchargement :_ [Charter Project - PDF](01-charter-project_fr.pdf)
 
 ## 02. Cahier des charges (Specifications)
 
@@ -97,7 +97,7 @@ Ce cahier des charges comprend :
 - Schéma Relationnel
 - Glossaire
 
-[Cahier des charges - PDF](02-specifications_fr.pdf)
+_Téléchargement :_ [Cahier des charges - PDF](02-specifications_fr.pdf)
 
 ## 03. BPMN ASIS
 
@@ -109,9 +109,13 @@ Le diagramme "As-Is" offre une vue d'ensemble détaillée de l'état actuel des 
 
 ![Diagramme BPMN : Partage d'un portfolio en version papier](03a-bpmn-asis-paper-portfolio.png)
 
+_Téléchargement :_ [Diagramme BPMN : Partage d'un portfolio en version papier - Image](03a-bpmn-asis-paper-portfolio.png)
+
 **Partage d'un portfolio en version web**
 
 ![Diagramme BPMN : Partage d'un portfolio en version web](03b-bpmn-asis-web-portfolio.png)
+
+_Téléchargement :_ [Diagramme BPMN : Partage d'un portfolio en version web - Image](03b-bpmn-asis-web-portfolio.png)
 
 ## 04. BPMN TOBE
 
@@ -121,29 +125,43 @@ _Le diagramme To-Be, fournit une vue d'ensemble de l'état futur, décrivant com
 
 ![Diagramme BPMN : Process général](04a-bpmn-tobe-fullprocess.png)
 
+_Téléchargement :_ [Diagramme BPMN : Process général - Image](04a-bpmn-tobe-fullprocess.png)
+
 **Process d’authentification**
 
 ![Diagramme BPMN : Process d’authentification](04b-bpmn-tobe-auth.png)
+
+_Téléchargement :_ [Diagramme BPMN : Process d’authentification - Image](04b-bpmn-tobe-auth.png)
 
 **Process fonctionnalités produits**
 
 ![Diagramme BPMN : Process fonctionnalités produits](04c-bpmn-tobe-functionalities.png)
 
+_Téléchargement :_ [Diagramme BPMN : Process fonctionnalités produits - Image](04c-bpmn-tobe-functionalities.png)
+
 **Sub-process édition du profil**
 
 ![Diagramme BPMN : Sub-process édition du profil](04d-bpmn-tobe-edit-profile.png)
+
+_Téléchargement :_ [Diagramme BPMN : Sub-process édition du profil - Image](04d-bpmn-tobe-edit-profile.png)
 
 **Sub-process visualisation des produits**
 
 ![Diagramme BPMN : Sub-process visualisation des produits](04e-bpmn-tobe-show-products.png)
 
+_Téléchargement :_ [Diagramme BPMN : Sub-process visualisation des produits - Image](04e-bpmn-tobe-show-products.png)
+
 **Sub-process édition des produits**
 
 ![Diagramme BPMN : Sub-process édition des produits](04f-bpmn-tobe-edit-products.png)
 
+_Téléchargement :_ [Diagramme BPMN : Sub-process édition des produits - Image](04f-bpmn-tobe-edit-products.png)
+
 **Sub-process payement**
 
 ![Diagramme BPMN : Sub-process payement](04g-bpmn-tobe-pay-plan.png)
+
+_Téléchargement :_ [Diagramme BPMN : Sub-process payement - Image](04g-bpmn-tobe-pay-plan.png)
 
 ## 05. Diagramme entités-associations (Entity Relationship Diagram)
 
@@ -161,6 +179,8 @@ Celui-ci est découpé en modules comme suit :
 
 ![Diagramme Entité-Association](05-entity-relationship-diagram.jpg)
 
+_Téléchargement :_ [Diagramme Entité-Association - Image](05-entity-relationship-diagram.jpg)
+
 ## 06. Shéma relationnel de base de données (Database relational Schema)
 
 _Le schéma relationnel correspond à l'ensemble des relations présentes dans une base de données._
@@ -168,6 +188,8 @@ _Le schéma relationnel correspond à l'ensemble des relations présentes dans u
 **Schéma Relationnel**
 
 ![Schéma Relationnel](06-database-relational-schema.png)
+
+_Téléchargement :_ [Schéma Relationnel - Image](06-database-relational-schema.png)
 
 ## 07. UML : diagramme d'activités (UML Activity Diagram)
 
@@ -182,6 +204,8 @@ Il décrit le processus de fonctionnement de l'application en fonction des choix
 
 ![UML : Diagramme d'activités](07-uml-activity-diagram.png)
 
+_Téléchargement :_ [UML : Diagramme d'activités - Image](07-uml-activity-diagram.png)
+
 ## 08. UML : diagramme de classes (UML Class Diagram)
 
 _Les diagrammes de classes sont l'un des types de diagrammes UML les plus utiles, car ils décrivent clairement la structure d’un système particulier en modélisant ses classes, ses attributs, ses opérations et les relations (associations) entre ses objets._
@@ -193,6 +217,8 @@ méthodes (sections inférieures) ne sont pas encore définies.
 
 ![UML : Diagramme de classes](08-uml-class-diagram.png)
 
+_Téléchargement :_ [UML : Diagramme de classes - Image](08-uml-class-diagram.png)
+
 ## 09. UML : diagramme d'étude de cas d'utilisation (UML Use Cases Diagrams)
 
 _Les diagrammes de cas d'utilisation sont des diagrammes UML utilisés pour une représentation du comportement fonctionnel d'un système logiciel. Ils sont utiles pour des présentations auprès de la direction ou des acteurs d'un projet, mais pour le développement, les cas d'utilisation sont plus appropriés._
@@ -201,25 +227,37 @@ _Les diagrammes de cas d'utilisation sont des diagrammes UML utilisés pour une 
 
 ![UML Use case : Diagramme de packages de Cas d’utilisation](09a-uml-use-cases-diagram-packages.png)
 
+_Téléchargement :_ [UML Use case : Diagramme de packages de Cas d’utilisation - Image](09a-uml-use-cases-diagram-packages.png)
+
 **Diagramme de cas d’utilisation par package : Utilisateur avec un plan ‘basic’**
 
 ![UML Use case : Utilisateur avec un plan ‘basic’](09b-uml-use-cases-diagram-process-basic-user.png)
+
+_Téléchargement :_ [UML Use case : Utilisateur avec un plan ‘basic’ - Image](09b-uml-use-cases-diagram-process-basic-user.png)
 
 **Diagramme de cas d’utilisation par package : Utilisateur avec un plan ‘premium’**
 
 ![UML Use case : Utilisateur avec un plan ‘premium’](09c-uml-use-cases-diagram-business-user.png)
 
+_Téléchargement :_ [UML Use case : Utilisateur avec un plan ‘premium’ - Image](09c-uml-use-cases-diagram-business-user.png)
+
 **Diagramme de cas d’utilisation par package : Utilisateur avec un plan ‘business’**
 
 ![UML Use case : Utilisateur avec un plan ‘business’](09d-uml-use-cases-diagram-premium-user.png)
+
+_Téléchargement :_ [UML Use case : Utilisateur avec un plan ‘business’ - Image](09d-uml-use-cases-diagram-premium-user.png)
 
 **Diagramme de cas d’utilisation par package : Utilisateur avec un statut ‘admin’**
 
 ![UML Use case : Utilisateur avec un statut ‘admin’](09e-uml-use-cases-diagram-admin.png)
 
+_Téléchargement :_ [UML Use case : Utilisateur avec un statut ‘admin’ - Image](09e-uml-use-cases-diagram-admin.png)
+
 **Diagramme de cas d’utilisation par package : SI ShowcaseMe + API externes**
 
 ![UML Use case : SI ShowcaseMe + API externes](09f-uml-use-cases-diagram-system.png)
+
+_Téléchargement :_ [UML Use case : SI ShowcaseMe + API externes - Image](09f-uml-use-cases-diagram-system.png)
 
 ## 10. UML : scenarii d'études de cas d'utilisation (UML Use Cases Scenarii)
 
@@ -231,7 +269,7 @@ Les scenarri concernent :
 - 2) Cas alternatif : l’utilisateur veut ajouter plus de 6 projets
 - 3) Cas d’exception : L’utilisateur ne renouvelle pas son abonnement
 
-[Scénarii nominaux et alternatifs - PDF](10-uml-use-cases-scenarii_fr.pdf)
+_Téléchargement :_ [Scénarii nominaux et alternatifs - PDF](10-uml-use-cases-scenarii_fr.pdf)
 
 ## 11. Wireframes
 
@@ -241,34 +279,49 @@ _Le Wireframe est la maquette « fil-de-fer » de l'interface. C'est un schéma 
 
 ![Wireframes : Login](11a-wireframes-login.png)
 
+_Téléchargement :_ [Wireframes : Login - Image](11a-wireframes-login.png)
+
 **Homepage**
 
 ![Wireframes : Homepage](11b-wireframes-homepage.png)
+
+_Téléchargement :_ [Wireframes : Homepage - Image](11b-wireframes-homepage.png)
 
 **Product page (Premium user)**
 
 ![Wireframes : Product page (Premium user)](11c-wireframes-portfolio-premium-visitor.png)
 
+_Téléchargement :_ [Wireframes : Product page (Premium user) - Image](11c-wireframes-portfolio-premium-visitor.png)
+
 **Product page (Business user)**
 
 ![Wireframes : Product page (Business user)](11d-wireframesd-portfolio-business-visitor.png)
+
+_Téléchargement :_ [Wireframes : Product page (Business user) - Image](11d-wireframesd-portfolio-business-visitor.png)
 
 **Product page (Portfolio) – Édition**
 
 ![Wireframes : Product page (Portfolio) – Édition](11e-wireframes-portfolio-basic-edit.png)
 
+_Téléchargement :_ [Wireframes : Product page (Portfolio) – Édition - Image](11e-wireframes-portfolio-basic-edit.png)
+
 **Product page (Project) – Édition**
 
 ![Wireframes : Product page (Project) – Édition](11f-wireframes-portfolio-project-edit.png)
+
+_Téléchargement :_ [Wireframes : Product page (Project) – Édition - Image](11f-wireframes-portfolio-project-edit.png)
 
 **CTA lorsqu’un utilisateur ‘basic’ veut ajouter plus de 6 projets**
 
 ![Wireframes : CTA](11g-wireframes-portfolio-basic-edit-limit.png)
 
+_Téléchargement :_ [Wireframes : CTA - Image](11g-wireframes-portfolio-basic-edit-limit.png)
+
 **Plan tarifaire**
 
 ![Wireframes : Plan tarifaire](11h-wireframes-prices-plans-from-free.png)
 
+_Téléchargement :_ [Wireframes : Plan tarifaire - Image](11h-wireframes-prices-plans-from-free.png)
 
 ## 12. Maquette (Mockup)
 
@@ -280,5 +333,7 @@ Elles peuvent néanmoins apporter un plus dans les présentation, dans certains 
 **Mockup Homepage**
 
 ![Mockup : homepage](12-mockup-homepage.png)
+
+_Téléchargement :_ [Mockup : homepage - Image](12-mockup-homepage.png)
 
 -----------------------------------------------
