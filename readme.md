@@ -47,51 +47,51 @@ Le cahier des charges reprend le Charter Project mais en incluant l'analyse fonc
 Ce cahier des charges comprend :
 
 - Cahier des charges
--- A qui l'application est-elle destinée ?
--- Qui est à l'origine de la demande ?
--- Quand est-elle attendue ?
--- Pourquoi est-elle attendue ? / Qu'est-ce qui a motivé la demande ?
--- Quels problèmes doit-elle résoudre ?
--- Quelles sont les fonctions (besoins fonctionnels)
--- Que veut-on obtenir ? / Quels sont les bénéfices attendus
--- Quelle sera la portée du système : l'entreprise, un seul service ?
--- Quelles seront les conditions d'utilisation ?
--- Comment saura-t-on que l’objectif a été atteint ?
+    - A qui l'application est-elle destinée ?
+    - Qui est à l'origine de la demande ?
+    - Quand est-elle attendue ?
+    - Pourquoi est-elle attendue ? / Qu'est-ce qui a motivé la demande ?
+    - Quels problèmes doit-elle résoudre ?
+    - Quelles sont les fonctions (besoins fonctionnels)
+    - Que veut-on obtenir ? / Quels sont les bénéfices attendus
+    - Quelle sera la portée du système : l'entreprise, un seul service ?
+    - Quelles seront les conditions d'utilisation ?
+    - Comment saura-t-on que l’objectif a été atteint ?
 - Project charter
 - BPMN ASIS
--- Partage de portfolio au format papier
--- Partage de portfolio au format web
+    - Partage de portfolio au format papier
+    - Partage de portfolio au format web
 - Diagramme de packages de Cas d’utilisation
 - Diagramme de cas d’utilisation par package
--- Concerne : Utilisateur avec un plan ‘basic’.
--- Concerne : Utilisateur avec un plan ‘premium’.
--- Concerne : Utilisateur avec un plan ‘business’.
--- Concerne : Utilisateur avec un statut ‘admin’.
--- Concerne : SI ShowcaseMe + API externes
+    - Concerne : Utilisateur avec un plan ‘basic’.
+    - Concerne : Utilisateur avec un plan ‘premium’.
+    - Concerne : Utilisateur avec un plan ‘business’.
+    - Concerne : Utilisateur avec un statut ‘admin’.
+    - Concerne : SI ShowcaseMe + API externes
 - Scénarii nominaux et alternatifs
--- Description générale
--- Scénarios
---- 1) Happy scénario : l’utilisateur s’inscrit et ajoute jusqu’à 6 projets
---- 2) Cas alternatif : l’utilisateur veut ajouter plus de 6 projets
---- 3) Cas d’exception : L’utilisateur ne renouvelle pas son abonnement
+    - Description générale
+    - Scénarios
+        - 1) Happy scénario : l’utilisateur s’inscrit et ajoute jusqu’à 6 projets
+        - 2) Cas alternatif : l’utilisateur veut ajouter plus de 6 projets
+        - 3) Cas d’exception : L’utilisateur ne renouvelle pas son abonnement
 - Diagrammes d’activités
 - BPMN TOBE
--- Process général
--- Process d’authentification
--- Process fonctionnalités produits
--- Sub-process édition du profil
--- Sub-process visualisation des produits
--- Sub-process édition des produits
--- Sub-process payement
+    - Process général
+    - Process d’authentification
+    - Process fonctionnalités produits
+    - Sub-process édition du profil
+    - Sub-process visualisation des produits
+    - Sub-process édition des produits
+    - Sub-process payement
 - Diagramme de classes
 - Wireframes
--- Login / landing page
--- Homepage
--- Product page (Premium user)
--- Product page (Portfolio) – Édition
--- Product page (Project) – Édition
--- CTA lorsqu’un utilisateur ‘basic’ veut ajouter plus de 6 projets
--- Plan tarifaire
+    - Login / landing page
+    - Homepage
+    - Product page (Premium user)
+    - Product page (Portfolio) – Édition
+    - Product page (Project) – Édition
+    - CTA lorsqu’un utilisateur ‘basic’ veut ajouter plus de 6 projets
+    - Plan tarifaire
 - Maquettes
 - Schéma Entité-Association version finale
 - Schéma Relationnel
