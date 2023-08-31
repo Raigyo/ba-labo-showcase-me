@@ -330,7 +330,7 @@ _Téléchargement :_ [Wireframes : Plan tarifaire - Image](11h-wireframes-prices
 Il n'est pas du ressort du BA de créer des maquettes, mais bien du graphiste.
 Les maquettes graphiques peuvent distraire le client du côté fonctionnel de l'application.
 
-Elles peuvent néanmoins apporter un plus dans les présentations, dans certains cas.
+Elles peuvent néanmoins apporter un plus lors des présentations, dans certains cas.
 
 **Mockup Homepage**
 
