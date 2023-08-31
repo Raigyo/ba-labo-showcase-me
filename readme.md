@@ -99,9 +99,11 @@ Ce cahier des charges comprend :
 
 _Téléchargement :_ [Cahier des charges - PDF](02-specifications_fr.pdf)
 
+NB : dossier _annexes_ nécessaire pour pouvoir avoir les images en grand.
+
 ## 03. BPMN ASIS
 
-_Le Business Process Model and Notation (BPMN) ou norme de modélisation des processus métier en français, est une méthode de logigramme qui modélise de A à Z les étapes d'un processus métier planifié. L'élaboration et l'alimentation des diagrammes BPMN "As-Is" et "To-Be" sont des techniques efficaces pour transformer une vision en résultats.
+_Le Business Process Model and Notation (BPMN) ou norme de modélisation des processus métier en français, est une méthode de logigramme qui modélise de A à Z les étapes d'un processus métier planifié. L'élaboration et l'alimentation des diagrammes BPMN "As-Is" et "To-Be" sont des techniques efficaces pour transformer une vision en résultats._
 
 Le diagramme "As-Is" offre une vue d'ensemble détaillée de l'état actuel des processus, de la culture et des capacités de l'organisation._
 
@@ -328,7 +330,7 @@ _Téléchargement :_ [Wireframes : Plan tarifaire - Image](11h-wireframes-prices
 Il n'est pas du ressort du BA de créer des maquettes, mais bien du graphiste.
 Les maquettes graphiques peuvent distraire le client du côté fonctionnel de l'application.
 
-Elles peuvent néanmoins apporter un plus dans les présentation, dans certains cas.
+Elles peuvent néanmoins apporter un plus dans les présentations, dans certains cas.
 
 **Mockup Homepage**
 
