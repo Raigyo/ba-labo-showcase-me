@@ -93,7 +93,7 @@ Ce cahier des charges comprend :
     - CTA lorsqu’un utilisateur ‘basic’ veut ajouter plus de 6 projets
     - Plan tarifaire
 - Maquettes
-- Schéma Entité-Association version finale
+- Schéma Entité-Association
 - Schéma Relationnel
 - Glossaire
 
